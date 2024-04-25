@@ -1,18 +1,41 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/saepe-quo-reiciendis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "tester",
+    "getter",
+    "make dir",
+    "tap",
+    "settings",
+    "Stream",
+    "progress",
+    "es6",
+    "object",
+    "persistent",
+    "superstruct",
+    "negative",
+    "lazy",
+    "point-free",
+    "parser",
+    "queueMicrotask",
+    "nope"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/saepe-quo-reiciendis.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/saepe-quo-reiciendis/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/saepe-quo-reiciendis/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
